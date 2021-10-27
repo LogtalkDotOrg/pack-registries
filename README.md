@@ -1,5 +1,5 @@
 # Pack registries
-A list of publicly available Logtalk and Prolog pack registries
+A list of publicly available Logtalk and Prolog pack registries. Contributions welcome.
 
 ## Logtalk pack registries
 - https://github.com/LogtalkDotOrg/talkshow
