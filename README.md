@@ -7,3 +7,4 @@ A list of publicly available Logtalk and Prolog pack registries
 
 ## Prolog pack registries
 - https://github.com/LogtalkDotOrg/wordnet
+- https://github.com/aarroyoc/aarroyoc-packs
