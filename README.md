@@ -5,6 +5,7 @@ A list of publicly available Logtalk and Prolog pack registries. Contributions w
 - https://github.com/LogtalkDotOrg/talkshow
 - https://github.com/PaulBrownMagic/woolpack
 - https://github.com/mlliarm/mlliarm_packs
+- https://gitee.com/ACleverDisguise/ttmrichter_packs
 
 ## Prolog pack registries
 - https://github.com/LogtalkDotOrg/wordnet
